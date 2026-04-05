@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4febb53d952a4975936cc54476141322, type: 3}
+  m_Name: Stun
+  m_EditorClassIdentifier: 
+  codeName: "\uAE30\uC808"
+  icon: {fileID: 3877379735373226637, guid: ee9b2ba6c6ef1654fb23ef99dd2293a9, type: 3}
+  time: 1
+  effect: {fileID: 5703459886793343853, guid: 02dc510ac0f00284ca4ba1bd1e756c0b, type: 3}

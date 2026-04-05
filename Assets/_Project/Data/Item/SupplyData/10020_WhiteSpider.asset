@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd4dfac9de54b61befb1b9a3b2ebc08, type: 3}
+  m_Name: 10020_WhiteSpider
+  m_EditorClassIdentifier: 
+  uid: 10020
+  icon: {fileID: -4839851872906334978, guid: 9351ccf6a3525114eb547b61f12c26c1, type: 3}
+  itemName: "\uC9D1\uAC8C\uB2E4\uB9AC"
+  itemType: 4
+  description: "\uBA39\uC744 \uC218 \uC788\uB294 \uC9D1\uAC8C\uB2E4\uB9AC\uB2E4."

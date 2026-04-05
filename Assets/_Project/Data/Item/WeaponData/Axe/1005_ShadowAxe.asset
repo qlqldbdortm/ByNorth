@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1650ac50b623aab4a81da35700c059a9, type: 3}
+  m_Name: 1005_ShadowAxe
+  m_EditorClassIdentifier: 
+  uid: 1005
+  icon: {fileID: -3489756936531890668, guid: 9ecd79554b0761a46915488b873450d5, type: 3}
+  itemName: "\uADF8\uB9BC\uC790 \uB3C4\uB07C"
+  itemType: 2
+  description: "\uADF8\uB9BC\uC790\uB85C \uB4A4\uB36E\uD78C \uB3C4\uB07C\uB2E4. \uBC24\uC5D0
+    \uBCF4\uBA74 \uC548\uBCF4\uC77C\uAC70 \uAC19\uC740\uB290\uB08C."
+  weaponType: 1
+  normalAttackData:
+    actionData: {fileID: 11400000, guid: c3e539c608d913340bda6d65ad740356, type: 2}
+    strengthMultiplier: 0.5
+    damage: 1
+    stamina: 3
+    animationType: 10
+    attackAudio: {fileID: 8300000, guid: 93e52671aed7e54409e2e06a00d9ec5d, type: 3}
+  hardAttackData:
+    actionData: {fileID: 11400000, guid: 9de80efc0200380419dfcf5315ac7a49, type: 2}
+    strengthMultiplier: 0
+    damage: 10
+    stamina: 4
+    animationType: 20
+    attackAudio: {fileID: 8300000, guid: 4bf231d9594e4a84da924a2cfbf1d8c5, type: 3}
+  range: 2
+  skillData: {fileID: 11400000, guid: 59020afc755648047ba7c0ec2bd90e0b, type: 2}

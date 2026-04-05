@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81ff5c49ca946939476230a0bac0086, type: 3}
+  m_Name: LokisPotion
+  m_EditorClassIdentifier: 
+  codeName: LokisTricks
+  icon: {fileID: -7473629007186766809, guid: e17ad02f698f99c4da3bcbf9e578bc3a, type: 3}
+  time: 10
+  hp: 0
+  stamina: -0.5
+  strength: 0
+  moveSpeed: 2

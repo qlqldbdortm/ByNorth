@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c574aec0314c8b8fee47e83e79a7e5, type: 3}
+  m_Name: Earthquake
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4082475974543075357, guid: d4f99f738900a4e4995449a352e01a8c, type: 3}
+  strengthMultiplier: 1
+  lifetime: 1

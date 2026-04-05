@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f7ccc103026b51409e32b1ead050fd3, type: 3}
+  m_Name: AxeSwingDown
+  m_EditorClassIdentifier: 
+  uid: 0
+  icon: {fileID: -884199399351268989, guid: e17ad02f698f99c4da3bcbf9e578bc3a, type: 3}
+  itemName: 
+  skillType: 1
+  skillName: "\uB3C4\uB07C \uB0B4\uB824\uCC0D\uAE30"
+  skillDescription: "\uB3C4\uB07C\uB97C \uD718\uB458\uB7EC \uB0B4\uB824\uCC0D\uAE30"
+  cooltime: 5
+  cost: 10
+  damage: 0
+  primaryAttackData:
+    actionData: {fileID: 11400000, guid: 32535fddf4dd82f4ebf368eefbe33204, type: 2}
+    strengthMultiplier: 1
+    damage: 10
+    stamina: 10
+    animationType: 20
+    attackAudio: {fileID: 8300000, guid: 4bf231d9594e4a84da924a2cfbf1d8c5, type: 3}

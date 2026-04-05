@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac68cd6667ab49fa94e58b4eba2427be, type: 3}
+  m_Name: BerserkerPotion
+  m_EditorClassIdentifier: 
+  codeName: BerserkersPotion
+  icon: {fileID: 7662515409919321702, guid: e17ad02f698f99c4da3bcbf9e578bc3a, type: 3}
+  time: 20
+  hp: 0
+  stamina: 0
+  strength: 5
+  moveSpeed: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41f5f3fab5a1e1841b36623018575b2e, type: 3}
+  m_Name: 3006_GiantPotion
+  m_EditorClassIdentifier: 
+  uid: 3006
+  icon: {fileID: 4676794859160983216, guid: 49aacc5ce3627274d8f9a1a7a8024075, type: 3}
+  itemName: "\uACE8\uC871 \uBB3C\uC57D"
+  itemType: 1
+  description: "\uD604\uC7AC \uACF5\uACA9\uB825\uC774 50\uC73C\uB85C \uACE0\uC815\uB418\uACE0
+    \uCCB4\uB825\uACFC \uC2A4\uD0DC\uBBF8\uB098\uC758 \uC18C\uBAA8\uAC00 \uC0AC\uB77C\uC9C4\uB2E4.
+    \uC9C0\uC18D\uC2DC\uAC04\uC740 5\uCD08"
+  amountOfRecovery: 0
+  consumeType: 3
+  buffDuration: 5
+  actionData: {fileID: 0}
+  modifier: {fileID: 11400000, guid: ec1e28c040d7bf34982ee998abfcceba, type: 2}

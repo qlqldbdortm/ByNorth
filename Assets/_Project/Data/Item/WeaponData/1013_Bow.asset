@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1650ac50b623aab4a81da35700c059a9, type: 3}
+  m_Name: 1013_Bow
+  m_EditorClassIdentifier: 
+  uid: 1013
+  icon: {fileID: 5722733055782210879, guid: 9ecd79554b0761a46915488b873450d5, type: 3}
+  itemName: "\uD65C"
+  itemType: 2
+  description: "\uD65C\uC774\uB2E4."
+  weaponType: 1
+  normalAttackData:
+    actionData: {fileID: 0}
+    strengthMultiplier: 0.25
+    damage: 1
+    stamina: 0
+    animationType: 20
+    attackAudio: {fileID: 8300000, guid: e2b7079f33e7c4022a15631426d1295c, type: 3}
+  hardAttackData:
+    actionData: {fileID: 0}
+    strengthMultiplier: 0.25
+    damage: 1
+    stamina: 0
+    animationType: 21
+    attackAudio: {fileID: 8300000, guid: e2b7079f33e7c4022a15631426d1295c, type: 3}
+  range: 2
+  skillData: {fileID: 11400000, guid: 25e59e6b21634a84cb427622b61bf2c2, type: 2}

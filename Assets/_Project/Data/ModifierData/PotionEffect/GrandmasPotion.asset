@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33802770430c4a48914149532e1d3a14, type: 3}
+  m_Name: GrandmasPotion
+  m_EditorClassIdentifier: 
+  codeName: Poison
+  icon: {fileID: 6993202951829411973, guid: e17ad02f698f99c4da3bcbf9e578bc3a, type: 3}
+  time: 5
+  effect: {fileID: 4831096180102314516, guid: 2194dc61901f0bf45af4263ad2d98b19, type: 3}
+  damagePerTick: 1
